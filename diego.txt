@@ -1,1 +1,2 @@
 mi primer archivo
+PRUEBA DE CONEXION ENTRE VS CODE Y GITHUB
